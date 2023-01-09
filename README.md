@@ -67,6 +67,7 @@ Results are summarized in the table below.
 These results are in line with current academic literature,<sup>[20]</sup> and were acheived using a Jupyter Notebook kernel running inside a Linux virtual machine hosted on a Chromebook laptop. Increasingly large datasets and computationally intensive methods have increasingly accurate results. 
 
 *code available [here >>](https://github.com/disesdi/pufs/blob/main/pufs_1.ipynb)*
+
 *full writeup [here >>](https://anglesofattack.io/1/pufs.html)*
 
 ## References
