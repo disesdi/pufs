@@ -2,9 +2,9 @@
 
 This project explores machine learning attacks on Physical Unclonable Functions (PUFs), which have been proposed as an authentication method for resource-constrained and security-vulnerable applications such as Unmanned Aircraft Systems (UAS), and Internet of Things (IOT) devices.
 
-code for this project is [available here](https://github.com/disesdi/pufs/blob/f9eb23984ba8e442f2734e86c05553f7fda5fea7/pufs_1.ipynb)
+* code for this project is [available here](https://github.com/disesdi/pufs/blob/f9eb23984ba8e442f2734e86c05553f7fda5fea7/pufs_1.ipynb)
 
-find the [full writeup & results here](https://anglesofattack.io/1/pufs.html)
+* find the [full writeup & results here](https://anglesofattack.io/1/pufs.html)
 
 ## Background
 
@@ -66,7 +66,8 @@ Results are summarized in the table below.
 
 These results are in line with current academic literature,<sup>[20]</sup> and were acheived using a Jupyter Notebook kernel running inside a Linux virtual machine hosted on a Chromebook laptop. Increasingly large datasets and computationally intensive methods have increasingly accurate results. 
 
-*Code available [here >>](https://github.com/disesdi/pufs/blob/main/pufs_1.ipynb)*
+*code available [here >>](https://github.com/disesdi/pufs/blob/main/pufs_1.ipynb)*
+*full writeup [here >>](https://anglesofattack.io/1/pufs.html)*
 
 ## References
 
